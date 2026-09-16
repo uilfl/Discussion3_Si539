@@ -26,4 +26,6 @@ p{
 img{
     max-width: 40%;
     height: 30%;
+    border:#9ab31a;
+    border-radius: 10px;
 }
