@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #9ab31a;
+}
+nav{
+    background-color: #ccc7c7;
+    color: #fff;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    display: flex;
+}
+nav ul li{
+    margin-right: 20px;
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: yellow;
+}
+img{
+    max-width: 40%;
+    height: 30%;
+}
